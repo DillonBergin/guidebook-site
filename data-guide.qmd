@@ -1,0 +1,60 @@
+---
+title: "What's in the Data – and How to Get It"
+---
+
+During the West Virginia investigation, a standardized public records request was sent to each county. Using consistent request language made it easier to compare responses across jurisdictions and organize records once they were received.
+
+## What to ask for
+
+Request documents that show:
+
+- The total amount of opioid settlement funds received
+- How those funds were allocated or distributed
+- The process used to determine funding decisions
+- Which programs or organizations received settlement dollars
+
+## Sample request language
+
+The following language can be adapted for most state or local open records laws:
+
+::: {.request-sample}
+Please provide any and all documents relating to the following:
+
+1. The total amount of opioid settlement funds your office has received.
+2. Documentation showing the distribution or allocation of opioid settlement funds.
+3. Any guidelines, policies, or procedures used to evaluate requests for funding.
+4. Documentation describing how applications for settlement funding are reviewed or approved.
+:::
+
+Because recordkeeping practices vary widely, reporters may also need to request additional materials that provide context for how decisions are made:
+
+- Grant or funding applications submitted by organizations
+- Meeting minutes where settlement spending was discussed
+- Emails or correspondence between officials about allocations
+- Records showing which organizations received funding and how much
+
+## What you'll receive
+
+During the West Virginia investigation, public records responses arrived in many different formats:
+
+- Budget documents outlining settlement allocations
+- Physical ledgers
+- Receipt forms
+- Scanned financial ledgers and checks
+- Meeting minutes discussing settlement spending
+- Applications with local organizations
+- Project outlines
+
+These records often arrived without standardized formatting and required significant organization before they could be analyzed.
+
+## Tracking requests across jurisdictions
+
+When requesting records from multiple counties or cities, track requests in a spreadsheet documenting:
+
+- Submission dates
+- Response deadlines
+- Whether agencies fulfilled, denied, or delayed requests
+
+This allows reporters to identify patterns in transparency and compare spending decisions across jurisdictions.
+
+Because opioid settlement payments will continue for many years, these records provide an ongoing opportunity for journalists to monitor how funds are used and whether spending aligns with public health recommendations.

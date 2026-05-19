@@ -1,0 +1,43 @@
+---
+title: "Explore West Virginia's Spending Documents and Applications"
+---
+
+Curious about what you'll get out of requests for spending documents? The West Virginia investigation collected records from counties, cities, and municipalities across the state — providing a concrete example of what this reporting looks like in practice.
+
+## What the WV investigation produced
+
+The investigation filed public records requests with every county in West Virginia, asking for documentation of opioid settlement funds received and how those funds were being spent. The documents received varied widely in format, completeness, and organization.
+
+Examples of records received include:
+
+- Budget documents outlining settlement allocations
+- Physical ledgers (scanned)
+- Receipt forms
+- Scanned financial ledgers and checks
+- Meeting minutes discussing settlement spending
+- Applications from local organizations
+- Project outlines
+
+## Browse the documents
+
+All documents from the West Virginia investigation are publicly available on DocumentCloud. You can browse them by searching **"West Virginia Opioid Settlement Spending"** or visiting the DocumentCloud project page directly.
+
+::: {.callout-note}
+The stories produced from this investigation were published by **100 Days in Appalachia** as part of the [Price of Recovery](https://100daysinappalachia.com) series.
+:::
+
+## What these documents reveal
+
+The WV investigation examined:
+
+- Youth prevention and education programs funded with settlement dollars
+- Questions about evidence-based spending
+- County-level transparency and accountability
+- Differences in how communities prioritized settlement funding
+- The challenges of tracking public health dollars across multiple jurisdictions
+
+## Using WV as a template for your state
+
+The WV investigation is a replicable model. Every state that is party to the national opioid settlements is receiving funds, and local governments within those states are making their own spending decisions — often with little public scrutiny.
+
+The records request process, organizational strategies, and reporting angles described in this guide can be adapted for any state or local jurisdiction.

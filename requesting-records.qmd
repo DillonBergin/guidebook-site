@@ -1,0 +1,93 @@
+---
+title: "Requesting Records on Opioid Settlement Spending"
+---
+
+Public records laws allow journalists and members of the public to request documents from government agencies, including their documentation of opioid settlement funds received and how they're spending them.
+
+## Understanding open records laws
+
+At the federal level, these laws fall under the Freedom of Information Act (FOIA). However, most records related to opioid settlement spending are held by state and local governments, which operate under state-level open records laws.
+
+These laws vary widely across states. Some states have strong transparency protections, clear deadlines, and limited exemptions. Others have weaker laws, slower response timelines, or broader exemptions.
+
+To learn the specific rules in your state, consult:
+
+- **Investigative Reporters and Editors (IRE)** FOIA resources
+- **State press association** open records guides
+- **Reporters Committee for Freedom of the Press** open government guide
+
+Understanding your state's law will help you determine:
+
+- How long agencies have to respond
+- What fees, if any, they can charge
+- What exemptions they may claim
+- Whether you can appeal a denial
+
+## What to request
+
+Investigating opioid settlement spending begins with requesting documents that show both how much funding governments have received and how decisions about spending are made.
+
+Municipal and county governments often hold many of the most important records, including:
+
+- Budget documents
+- Contracts with treatment providers
+- Grant applications
+- Meeting minutes
+- Financial ledgers
+- Checks or payment records
+- Emails discussing allocations
+
+## Using MuckRock
+
+[MuckRock](https://www.muckrock.com) is a platform that simplifies filing, tracking, and publishing public records requests. During the West Virginia investigation, the MuckRock support team helped:
+
+- Locate or verify agency contact information
+- Add counties or offices not already listed in the system
+- Troubleshoot delivery or submission issues
+- Update request routing when agencies redirected requests to another office
+- Provide guidance on how to proceed when agencies stopped responding
+
+MuckRock staff may also suggest alternative agency contacts, different submission methods, or ways to revise or narrow requests to improve response rates.
+
+::: {.callout-tip}
+For large collaborative investigations involving many jurisdictions, MuckRock's support can help reporters maintain consistency and avoid delays caused by incorrect contact information or administrative issues.
+:::
+
+## When agencies fail to respond
+
+Tracking follow-ups is especially important when requesting records from multiple jurisdictions. During the West Virginia investigation, several counties only responded after repeated follow-up emails or phone calls.
+
+If an agency doesn't respond:
+
+- Send follow-up emails referencing the original request and submission date
+- Call the agency directly to confirm the request was received
+- Ask whether clarification or narrowing of the request is needed
+- Keep detailed notes of all communication attempts and response dates
+
+In some cases, delays or refusals to provide records may themselves become part of the reporting — particularly when agencies overseeing significant public funding provide limited transparency.
+
+::: {.callout-note}
+Some counties refused to use MuckRock and instead required requests to be submitted through direct email or standard mail. If this happens, requests can still be tracked and published through MuckRock even if communication occurs outside the platform.
+:::
+
+## Common problems
+
+Although opioid settlement records are considered public documents, accessing them is not always straightforward. During the months of the West Virginia investigation, the records request process varied significantly from county to county.
+
+One of the most common problems was simply receiving a response. Some counties:
+
+- Did not respond to requests at all
+- Required multiple follow-up emails and phone calls
+- Delayed responses beyond expected timelines
+- Redirected requests between offices or departments
+
+In some cases, counties refused to use MuckRock. Other counties required reporters to:
+
+- Travel in person to review records
+- Pay fees for copies of documents
+- Review paper records instead of digital files
+- Pick up records physically rather than receive them electronically
+
+Records were also purchased from several counties, including Kanawha County, Harrison County, and Hancock County.
+
+Another challenge involved the records themselves. Public records responses rarely arrived in a consistent or organized format. Documents were often spread across multiple PDFs, scans, or paper files with little explanation or labeling. Many records were handwritten, scanned poorly, or incomplete — requiring significant cleanup and organization before analysis could begin.

@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Investigating Opioid Settlement Spending"
+  description: "A journalist's guide to tracking how local governments spend opioid settlement funds"
+  favicon: ""
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - href: index.qmd
+        text: "Introduction"
+      - href: explore-documents.qmd
+        text: "Explore WV Documents"
+      - href: requesting-records.qmd
+        text: "Requesting Records"
+      - href: data-guide.qmd
+        text: "What's in the Data"
+      - href: organizing-documents.qmd
+        text: "Organizing Documents"
+      - href: reporting-angles.qmd
+        text: "Reporting Angles"
+      - href: faq.qmd
+        text: "FAQ"
+  page-footer:
+    left: "By Jessica Riley & Drew Solt, West Virginia University"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3

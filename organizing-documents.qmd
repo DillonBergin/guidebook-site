@@ -1,0 +1,59 @@
+---
+title: "Strategies for Organizing and Sorting Documents"
+---
+
+Public records responses often arrive in many formats and can be difficult to interpret. During the West Virginia investigation, a wide range of materials were received, including scanned financial ledgers, individual checks, budget spreadsheets, meeting minutes, contracts and grant agreements, and emails between officials.
+
+These records were rarely standardized and often required significant organization before analysis.
+
+## Managing large document sets
+
+To make sense of large document collections:
+
+- **Create a central document storage system** — the WV investigation used DocumentCloud
+- **Label files consistently** by jurisdiction and document type — DocumentCloud's tags and key-value pairs feature makes this practical
+- **Track where each document came from**
+- **Record key information in a spreadsheet or database**
+
+For each document, you may want to log:
+
+- Agency name
+- Amount of settlement funding received
+- Allocation decisions
+- Program descriptions
+- Date of spending approval
+
+## Using DocumentCloud
+
+[DocumentCloud](https://www.documentcloud.org) is a platform for uploading, organizing, annotating, and publishing primary source documents. The WV investigation used it as the central repository for all received records.
+
+This process of uploading and tagging documents provides key data to journalists around the state and even the country. Reporting on county-level spending has been very small, and without this kind of organized document work some of this data could have been lost.
+
+Many newspapers and news outlets do not have the resources, staff, or time to report on state, county, and city/municipality opioid settlement funding — making a well-organized DocumentCloud project a public resource beyond just your own reporting.
+
+### Tagging documents
+
+A **tag** is a specific search key term added to individual documents to make it easier to search for specific information and keep all received documents organized by municipality, county, or city. When searching for a county's specific documents, only those tagged with that county will appear.
+
+**To tag a document in DocumentCloud:**
+
+1. Upload the document
+2. Click on it to open it
+3. Select the tagging option
+4. In the "new item" box, enter the category (e.g., `county` or `city`)
+5. In the value box, enter the specific name (e.g., `Kanawha County`)
+
+### Key-value pairs
+
+Beyond simple tags, DocumentCloud's key-value pairs allow you to attach structured metadata to each document — useful for recording amounts, dates, and other data points you want to query later.
+
+## Turning documents into data
+
+Many investigative projects require converting unstructured documents into structured data. This process may involve:
+
+- Manually reviewing financial records
+- Extracting spending amounts
+- Categorizing spending by program type
+- Comparing spending patterns across jurisdictions
+
+While time-consuming, this process allows reporters to identify patterns, inconsistencies, or unexpected spending decisions that would otherwise remain buried in individual PDFs.

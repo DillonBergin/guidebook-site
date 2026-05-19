@@ -1,0 +1,47 @@
+---
+title: "Want to know what your local government is spending opioid settlement funds on?"
+subtitle: "Use a West Virginia University student journalist's investigation as your guide"
+author:
+  - Jessica Riley
+  - Drew Solt
+---
+
+Across the United States, states and local governments are receiving billions of dollars from legal settlements with opioid manufacturers, distributors, and retailers. These settlements stem from lawsuits showing the companies contributed to the opioid epidemic through aggressive marketing, distribution practices, and failure to monitor suspicious orders.
+
+The settlement agreements are expected to distribute more than **$50 billion nationally** over nearly two decades, with funds flowing to states, counties, cities, and tribal governments.
+
+Many communities hope these funds will support treatment programs, prevention efforts, recovery services, harm reduction initiatives, and other public health responses. However, transparency around how these funds are spent varies widely. In many places, the decision-making process happens at the local level, often with limited reporting requirements or public oversight.
+
+This guide explains how journalists can use public records requests, document analysis, and collaborative reporting methods to track how opioid settlement funds are allocated and spent in their communities.
+
+## Why this reporting matters
+
+At the local level:
+
+- Local officials determine how funds are spent
+- Reporting requirements vary or may be minimal
+- Public documentation of spending decisions is inconsistent
+
+While many states have developed advisory councils or general spending guidelines, there is little consistent oversight over how funds are used at the local level. This lack of standardized transparency creates challenges for journalists and the public trying to understand whether funds are being used for evidence-based solutions — but also creates an opportunity to watchdog how local governments spend a very important pot of money.
+
+## What investigating can reveal
+
+Investigating settlement spending can show the gaps between what's happening and what should happen:
+
+- How local governments prioritize prevention, treatment, or enforcement
+- Whether funds are spent on programs supported by research
+- Whether spending decisions are made transparently
+- Whether funds are redirected toward unrelated expenses
+
+Because settlement payments will continue for years, early reporting can help establish accountability and encourage more transparent decision-making going forward.
+
+## How to use this guide
+
+Use the sidebar to navigate through each section:
+
+1. **[Explore WV Documents](explore-documents.qmd)** — See what records look like from a real investigation
+2. **[Requesting Records](requesting-records.qmd)** — How to file public records requests and handle common problems
+3. **[What's in the Data](data-guide.qmd)** — Sample request language and what to expect in responses
+4. **[Organizing Documents](organizing-documents.qmd)** — Strategies for managing large document sets with DocumentCloud
+5. **[Reporting Angles](reporting-angles.qmd)** — Investigative threads to pursue once records are collected
+6. **[FAQ](faq.qmd)** — Answers to common questions about this type of investigation
